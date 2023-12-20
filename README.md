@@ -23,7 +23,7 @@ Idrila
 Enhance cryptocurrency analytics with an Interactive Cryptocurrency Analytics Dashboard featuring improved visualization through integrated graphs. Prioritize user-friendly design, intuitive navigation, and customizable views. Incorporate candle charts for detailed price movement analysis, showcasing highs, lows, and open values for enhanced data clarity.
 
 ## Demo video
-(https://youtu.be/ZzxtpQRg3Gs)
+https://youtu.be/ZzxtpQRg3Gs 
 ## How to run
 
 ### Prerequisites:
